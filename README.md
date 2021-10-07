@@ -1,6 +1,6 @@
 - 👋 Hola, soy Matías López alias aguara
 - 👀 Java, Android con Kotlin y FLutter
-- 🌱 En proceso de aprender más
+- 🌱 En proceso de aprender más y mássss
 - 💞️ 
 - 📫 
 
